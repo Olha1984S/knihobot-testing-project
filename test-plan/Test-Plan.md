@@ -20,9 +20,12 @@ The main objectives of testing are:
 
 ## Test Environment
 
-Website: https://knihobot.cz
-Browser: Google Chrome 147.0.7727.139
+Website: https://knihobot.cz 
+
+Browser: Google Chrome 147.0.7727.139 
+
 Device: Desktop
+
 OS: Windows 11
 
 ## Testing Types
@@ -79,7 +82,7 @@ Each defect includes:
 - actual result
 
 
-## 👩‍💻 Author
+## Author
 
 Olha Shynkina  
 Junior QA Engineer
